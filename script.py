@@ -18,8 +18,8 @@ FLAGS = gflags.FLAGS
 # applications
 # The client_id and client_secret can be found in Google Developers Console
 FLOW = OAuth2WebServerFlow(
-    client_id='138764037090-uu3qk39ca5hbdknvlbkdt80erplg624r.apps.googleusercontent.com',
-    client_secret='zChfyIDzXLoW3iIQbNQpWqtC',
+    client_id='',
+    client_secret='',
     scope='https://www.googleapis.com/auth/calendar',
     user_agent='Alfred Gcal/0.1')
 
